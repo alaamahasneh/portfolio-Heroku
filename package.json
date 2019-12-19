@@ -1,0 +1,25 @@
+{
+  "name": "portfolio-Heroku",
+  "version": "1.0.0",
+  "description": "The Over View:",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alaamahasneh/portfolio-Heroku.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alaamahasneh/portfolio-Heroku/issues"
+  },
+  "homepage": "https://github.com/alaamahasneh/portfolio-Heroku#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
